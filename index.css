@@ -1,0 +1,47 @@
+body{
+ background-color: hsla(30,45%,60%,0.5);
+}
+.container{
+    max-width: 100%;
+}
+
+section #die1{
+    
+    background-color: aquamarine;
+    margin: 48px 267px;
+    
+}
+section #die2{
+    background-color:green;
+    margin: 52px 52px;
+   
+    
+}
+
+div.dice{
+    float: left;
+    width: 32px;
+    background-color: #f5f5f5;
+    border: #999 1px solid;
+    padding: 45px;
+    font-size: 24px;
+    text-align: center;
+    margin: 51px;
+    border-radius: 26%;
+    
+}
+button{
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 293px;
+    font-size: 40px;
+    border-radius: 20%;
+    left: 487px;
+    
+}
+
+h2{
+    clear:left;
+    margin-left: 371px;
+   
+}
